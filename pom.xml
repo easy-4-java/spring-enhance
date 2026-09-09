@@ -45,7 +45,7 @@
             </activation>
             <properties>
                 <!-- Dependency versions -->
-                <central-maven-publishing-plugin.version>0.11.0</central-maven-publishing-plugin.version>
+                <maven-central-publishing-plugin.version>0.11.0</maven-central-publishing-plugin.version>
                 <!-- Maven Plugin versions -->
                 <maven-jacoco-plugin.version>0.8.15</maven-jacoco-plugin.version>
             </properties>
